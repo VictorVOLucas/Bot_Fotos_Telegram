@@ -1,0 +1,6 @@
+customtkinter==5.0.3
+tkinter
+schedule==1.1.0
+python-telegram-bot==20.0a1
+asyncio
+json
